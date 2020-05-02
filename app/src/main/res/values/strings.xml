@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android-MaterialDatePicker</string>
+    <string name="title">MaterialDatePicker Demo</string>
+    <string name="title2">Range MaterialDatePicker Demo</string>
+</resources>
