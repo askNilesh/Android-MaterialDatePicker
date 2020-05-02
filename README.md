@@ -2,7 +2,7 @@
 
 # Android-MaterialDatePicker
 
-in this repository i will guide you step by step guide on how to use the new Material Date Picker in android
+in this repository i will guide you step by step how to use the new Material Date Picker in android
 
 ## Follow below steps
 
@@ -61,6 +61,11 @@ Step 5 : Get selected date from MaterialDatePicker
 
 ```
 
+OUTPUT
+
+![Screenshot_1588400560](https://user-images.githubusercontent.com/30828060/80856910-a7091100-8c6b-11ea-890e-2e67ca8569d7.png)
+
+![Screenshot_1588400572](https://user-images.githubusercontent.com/30828060/80856907-a40e2080-8c6b-11ea-8ff2-d34522de3dc8.png)
 
 
 
